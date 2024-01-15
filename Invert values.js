@@ -12,6 +12,3 @@
 
 const arr = [-1,2]
 console.log(arr.map((num) => num *-1) )
-
-
-
